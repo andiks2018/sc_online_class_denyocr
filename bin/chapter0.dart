@@ -116,7 +116,7 @@ class Chapter0 {
   bool? exercise12() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data double dan beri nilai 2.71828
     // TODO: Tulis jawabanmu di bawah ini
-
+    double output = 2.71828;
     // --- End of Answer ---
 
     return output is double && output == 2.71828;
@@ -126,7 +126,7 @@ class Chapter0 {
   bool? exercise13() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data double dan beri nilai -5.67
     // TODO: Tulis jawabanmu di bawah ini
-
+    double output = -5.67;
     // --- End of Answer ---
 
     return output is double && output == -5.67;
@@ -136,7 +136,7 @@ class Chapter0 {
   bool? exercise14() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data double dan beri nilai 0.0
     // TODO: Tulis jawabanmu di bawah ini
-
+    double output = 0.0;
     // --- End of Answer ---
 
     return output is double && output == 0.0;
@@ -146,7 +146,7 @@ class Chapter0 {
   bool? exercise15() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data double dan beri nilai 12345.6789
     // TODO: Tulis jawabanmu di bawah ini
-
+    double output = 12345.6789;
     // --- End of Answer ---
 
     return output is double && output == 12345.6789;
