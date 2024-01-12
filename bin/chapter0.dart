@@ -166,7 +166,7 @@ class Chapter0 {
   bool? exercise17() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data double dan beri nilai -2.25
     // TODO: Tulis jawabanmu di bawah ini
-     double output = -2.25;
+    double output = -2.25;
     // --- End of Answer ---
 
     return output is double && output == -2.25;
@@ -176,7 +176,7 @@ class Chapter0 {
   bool? exercise18() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data double dan beri nilai 0.01
     // TODO: Tulis jawabanmu di bawah ini
-      double output = 0.01;
+    double output = 0.01;
     // --- End of Answer ---
 
     return output is double && output == 0.01;
@@ -206,7 +206,7 @@ class Chapter0 {
   bool? exercise21() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data boolean dan beri nilai true
     // TODO: Tulis jawabanmu di bawah ini
-
+    bool output = true;
     // --- End of Answer ---
 
     return output is bool && output == true;
@@ -216,7 +216,7 @@ class Chapter0 {
   bool? exercise22() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data boolean dan beri nilai false
     // TODO: Tulis jawabanmu di bawah ini
-
+    bool output = false;
     // --- End of Answer ---
     return output is bool && output == false;
   }
@@ -225,7 +225,7 @@ class Chapter0 {
   bool? exercise23() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data boolean dan beri nilai true
     // TODO: Tulis jawabanmu di bawah ini
-
+    bool output = true;
     // --- End of Answer ---
 
     return output is bool && output == true;
@@ -235,7 +235,7 @@ class Chapter0 {
   bool? exercise24() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data boolean dan beri nilai false
     // TODO: Tulis jawabanmu di bawah ini
-
+    bool output = false;
     // --- End of Answer ---
 
     return output is bool && output == false;
@@ -245,7 +245,7 @@ class Chapter0 {
   bool? exercise25() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data boolean dan beri nilai true
     // TODO: Tulis jawabanmu di bawah ini
-
+    bool output = true;
     // --- End of Answer ---
 
     return output is bool && output == true;
