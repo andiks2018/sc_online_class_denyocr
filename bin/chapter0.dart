@@ -255,7 +255,7 @@ class Chapter0 {
   bool? exercise26() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data boolean dan beri nilai false
     // TODO: Tulis jawabanmu di bawah ini
-
+    bool output = false;
     // --- End of Answer ---
 
     return output is bool && output == false;
@@ -265,7 +265,7 @@ class Chapter0 {
   bool? exercise27() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data boolean dan beri nilai true
     // TODO: Tulis jawabanmu di bawah ini
-
+    bool output = true;
     // --- End of Answer ---
 
     return output is bool && output == true;
@@ -275,7 +275,7 @@ class Chapter0 {
   bool? exercise28() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data boolean dan beri nilai false
     // TODO: Tulis jawabanmu di bawah ini
-
+    bool output = false;
     // --- End of Answer ---
 
     return output is bool && output == false;
@@ -285,7 +285,7 @@ class Chapter0 {
   bool? exercise29() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data boolean dan beri nilai true
     // TODO: Tulis jawabanmu di bawah ini
-
+    bool output = true;
     // --- End of Answer ---
 
     return output is bool && output == true;
@@ -295,7 +295,7 @@ class Chapter0 {
   bool? exercise30() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data boolean dan beri nilai false
     // TODO: Tulis jawabanmu di bawah ini
-
+    bool output = false;
     // --- End of Answer ---
 
     return output is bool && output == false;
