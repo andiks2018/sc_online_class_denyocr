@@ -305,7 +305,7 @@ class Chapter0 {
   bool? exercise31() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data String dan beri nilai "Hello, World!"
     // TODO: Tulis jawabanmu di bawah ini
-
+String output = "Hello, World!";
     // --- End of Answer ---
 
     return output is String && output == "Hello, World!";
@@ -315,7 +315,7 @@ class Chapter0 {
   bool? exercise32() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data String dan beri nilai "Dart is fun!"
     // TODO: Tulis jawabanmu di bawah ini
-
+String output = "Dart is fun!";
     // --- End of Answer ---
 
     return output is String && output == "Dart is fun!";
@@ -325,7 +325,7 @@ class Chapter0 {
   bool? exercise33() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data String dan beri nilai "12345"
     // TODO: Tulis jawabanmu di bawah ini
-
+String output = "12345";
     // --- End of Answer ---
 
     return output is String && output == "12345";
@@ -335,7 +335,7 @@ class Chapter0 {
   bool? exercise34() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data String dan beri nilai "3.14159"
     // TODO: Tulis jawabanmu di bawah ini
-
+String output = "3.14159";
     // --- End of Answer ---
 
     return output is String && output == "3.14159";
@@ -345,7 +345,7 @@ class Chapter0 {
   bool? exercise35() {
     // ? Instruksi: Deklarasikan sebuah variabel "output" dengan tipe data String dan beri nilai "true"
     // TODO: Tulis jawabanmu di bawah ini
-
+String output = "true";
     // --- End of Answer ---
 
     return output is String && output == "true";
